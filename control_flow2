@@ -1,0 +1,5 @@
+#Create a while loop that never gets called
+jessy=7
+while jessy > 10:
+  print jessy
+

@@ -1,0 +1,5 @@
+#Practicing loops
+number = 4 
+while number > 0:
+    print number
+    
